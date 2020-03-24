@@ -89,15 +89,6 @@
       "stoneType": "emerald",
       "gender": "female",
       "img": "https://www.zales.com/productimages/processed/V-20316790_0_260.jpg?pristine=true"
-    },
-    {
-      "id": 11,
-      "title": "Swiss Blue Topaz Diamond Frame",
-      "titleId": "swiss-blue-topaz",
-      "material": "silver",
-      "stoneType": ["topaz", "diamond"],
-      "gender": "female",
-      "img": "https://www.zales.com/productimages/processed/V-20299921_0_260.jpg"
     }
   ]
 }
