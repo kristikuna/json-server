@@ -3,44 +3,101 @@
     {
       "id": 1,
       "title": "Shooting Star Ring Sterling",
-      "material": "Diamond",
-      "gender": "Female",
+      "title-id": "shooting-star-ring",
+      "material": "silver",
+      "stone-type": "diamond",
+      "gender": "female",
       "img": "https://www.zales.com/productimages/processed/V-20315238_0_260.jpg?pristine=true"
     },
     {
       "id": 2,
-      "title": "Men's Diamond Comfort Fit",
-      "material": "Diamond",
-      "gender": "Male",
-      "img": "https://www.zales.com/productimages/processed/V-18067686_0_260.jpg?pristine=true"
-    },  
+      "title": "Men's Gold Band",
+      "title-id": "mens-gold-band",
+      "material": "gold",
+      "stone-type": "no-stone",
+      "gender": "male",
+      "img": "https://www.zales.com/productimages/processed/V-20147997_0_260.jpg"
+    }, 
     {
       "id": 3,
-      "title": "Diamond Rose Ring",
-      "material": "Rose Gold",
-      "gender": "Female",
-      "img": "https://www.zales.com/enchanted-disney-belle-110-ct-tw-diamond-rose-ring-10k-rose-gold/p/V-20108948"
+      "title": "Swiss Blue Topaz Diamond Frame",
+      "title-id": "swiss-blue-topaz",
+      "material": "silver",
+      "stone-type": "topaz diamond",
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20299921_0_260.jpg"
     },
     {
       "id": 4,
-      "title": "Men's Band",
-      "material": "Rose Gold",
-      "gender": "Male",
-      "img": "https://www.zales.com/mens-40mm-wedding-band-10k-rose-gold/p/V-20148055"
+      "title": "Men's Rose Gold Band",
+      "title-id": "mens-rose-gold-band",
+      "material": "rose-gold",
+      "stone-type": "no-stone",
+      "gender": "male",
+      "img": "https://www.zales.com/productimages/processed/V-20148055_0_260.jpg"
     },
     {
       "id": 5,
-      "title": "Diamond-Cut Filigree Ring",
-      "material": "Gold",
-      "gender": "Female",
-      "img": "https://www.zales.com/made-italy-200mm-diamondcut-filigree-ring-14k-gold-size-7/p/V-20300437"
+      "title": "Princess-Cut Diamond Engagement",
+      "title-id": "princess-cut-diamond-engagement",
+      "material": "gold",
+      "stone-type": "diamond",
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20319148_0_260.jpg?pristine=true"
     },
     {
       "id": 6,
-      "title": "Men's Band",
-      "material": "Gold",
-      "gender": "Male",
-      "img": "https://www.zales.com/productimages/processed/V-20147997_0_260.jpg"
+      "title": "Men's Diamond Comfort Fit",
+      "title-id": "mens-diamond-comfort-fit",
+      "material": "silver",
+      "stone-type": "diamond",
+      "gender": "male",
+      "img": "https://www.zales.com/productimages/processed/V-18067686_0_260.jpg?pristine=true"
+    }, 
+    {
+      "id": 7,
+      "title": "Pear-Shaped Blue Topaz",
+      "title-id": "pear-shaped-topaz",
+      "material": "silver",
+      "stone-type": "topaz",
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20314954_0_260.jpg?pristine=true"
+    },
+    {
+      "id": 8,
+      "title": "Men's Chevron Pattern",
+      "title-id": "mens-gold-band",
+      "material": "silver",
+      "stone-type": "no-stone",
+      "gender": "male",
+      "img": "https://www.zales.com/productimages/processed/V-20307705_0_260.jpg?pristine=true"
+    },
+    {
+      "id": 9,
+      "title": "Diamond Rose Gold Ring",
+      "title-id": "diamond-rose-gold-ring",
+      "material": "rose-gold",
+      "stone-type": "diamond",
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20300979_0_260.jpg?pristine=true"
+    },
+    {
+      "id": 10,
+      "title": "Oval Emerald Ring",
+      "title-id": "oval-emerald-ring",
+      "material": "silver",
+      "stone-type": "emerald",
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20316790_0_260.jpg?pristine=true"
+    },
+    {
+      "id": 11,
+      "title": "Swiss Blue Topaz Diamond Frame",
+      "title-id": "swiss-blue-topaz",
+      "material": "silver",
+      "stone-type": ["topaz", "diamond"],
+      "gender": "female",
+      "img": "https://www.zales.com/productimages/processed/V-20299921_0_260.jpg"
     }
   ]
 }
