@@ -1,0 +1,46 @@
+{
+  "rings": [
+    {
+      "id": 1,
+      "title": "Shooting Star Ring Sterling",
+      "material": "Diamond",
+      "gender": "Female",
+      "img": "https://www.zales.com/productimages/processed/V-20315238_0_260.jpg?pristine=true"
+    },
+    {
+      "id": 2,
+      "title": "Men's Diamond Comfort Fit",
+      "material": "Diamond",
+      "gender": "Male",
+      "img": "https://www.zales.com/productimages/processed/V-18067686_0_260.jpg?pristine=true"
+    },  
+    {
+      "id": 3,
+      "title": "Diamond Rose Ring",
+      "material": "Rose Gold",
+      "gender": "Female",
+      "img": "https://www.zales.com/enchanted-disney-belle-110-ct-tw-diamond-rose-ring-10k-rose-gold/p/V-20108948"
+    },
+    {
+      "id": 4,
+      "title": "Men's Band",
+      "material": "Rose Gold",
+      "gender": "Male",
+      "img": "https://www.zales.com/mens-40mm-wedding-band-10k-rose-gold/p/V-20148055"
+    },
+    {
+      "id": 5,
+      "title": "Diamond-Cut Filigree Ring",
+      "material": "Gold",
+      "gender": "Female",
+      "img": "https://www.zales.com/made-italy-200mm-diamondcut-filigree-ring-14k-gold-size-7/p/V-20300437"
+    },
+    {
+      "id": 6,
+      "title": "Men's Band",
+      "material": "Gold",
+      "gender": "Male",
+      "img": "https://www.zales.com/productimages/processed/V-20147997_0_260.jpg"
+    }
+  ]
+}
