@@ -6,7 +6,8 @@
       "titleId": "shooting-star-ring",
       "material": "silver",
       "stoneType": "diamond",
-      "gender": "female",
+      "gender": "women",
+      "price": "100",
       "img": "https://www.zales.com/productimages/processed/V-20315238_0_260.jpg?pristine=true"
     },
     {
@@ -15,7 +16,8 @@
       "titleId": "mens-gold-band",
       "material": "gold",
       "stoneType": "no-stone",
-      "gender": "male",
+      "gender": "men",
+      "price": "200",
       "img": "https://www.zales.com/productimages/processed/V-20147997_0_260.jpg"
     }, 
     {
@@ -23,8 +25,9 @@
       "title": "Swiss Blue Topaz Diamond Frame",
       "titleId": "swiss-blue-topaz",
       "material": "silver",
-      "stoneType": "topaz diamond",
-      "gender": "female",
+      "stoneType": "topaz",
+      "gender": "women",
+      "price": "300",
       "img": "https://www.zales.com/productimages/processed/V-20299921_0_260.jpg"
     },
     {
@@ -33,7 +36,8 @@
       "titleId": "mens-rose-gold-band",
       "material": "rose-gold",
       "stoneType": "no-stone",
-      "gender": "male",
+      "gender": "men",
+      "price": "100",
       "img": "https://www.zales.com/productimages/processed/V-20148055_0_260.jpg"
     },
     {
@@ -42,7 +46,8 @@
       "titleId": "princess-cut-diamond-engagement",
       "material": "gold",
       "stoneType": "diamond",
-      "gender": "female",
+      "gender": "women",
+      "price": "200",
       "img": "https://www.zales.com/productimages/processed/V-20319148_0_260.jpg?pristine=true"
     },
     {
@@ -51,7 +56,8 @@
       "titleId": "mens-diamond-comfort-fit",
       "material": "silver",
       "stoneType": "diamond",
-      "gender": "male",
+      "gender": "men",
+      "price": "300",
       "img": "https://www.zales.com/productimages/processed/V-18067686_0_260.jpg?pristine=true"
     }, 
     {
@@ -60,7 +66,8 @@
       "titleId": "pear-shaped-topaz",
       "material": "silver",
       "stoneType": "topaz",
-      "gender": "female",
+      "gender": "women",
+      "price": "100",
       "img": "https://www.zales.com/productimages/processed/V-20314954_0_260.jpg?pristine=true"
     },
     {
@@ -69,7 +76,8 @@
       "titleId": "mens-gold-band",
       "material": "silver",
       "stoneType": "no-stone",
-      "gender": "male",
+      "gender": "men",
+      "price": "200",
       "img": "https://www.zales.com/productimages/processed/V-20307705_0_260.jpg?pristine=true"
     },
     {
@@ -78,7 +86,8 @@
       "titleId": "diamond-rose-gold-ring",
       "material": "rose-gold",
       "stoneType": "diamond",
-      "gender": "female",
+      "gender": "women",
+      "price": "300",
       "img": "https://www.zales.com/productimages/processed/V-20300979_0_260.jpg?pristine=true"
     },
     {
@@ -87,7 +96,8 @@
       "titleId": "oval-emerald-ring",
       "material": "silver",
       "stoneType": "emerald",
-      "gender": "female",
+      "gender": "women",
+      "price": "100",
       "img": "https://www.zales.com/productimages/processed/V-20316790_0_260.jpg?pristine=true"
     }
   ]
